@@ -29,7 +29,8 @@ Earthquake-Tsunami/
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # This file
 ├── test_data.csv               # Earthquake-Tsunami test dataset           
-└── models/                     # Saved trained models and Script to train all 6 models (.pkl,.py files)
+└── models/                     # Saved trained models (.pkl files)
+     └── train_models.py        # Script to train all 6 models
 ```
 
 ## Models Used
